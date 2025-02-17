@@ -1,0 +1,46 @@
+*/__pycache__/*
+*/*/__pycache__/*
+*.pyc
+.DS_Store
+.idea
+5020*
+
+# env
+.env
+*.xml
+
+# data
+*.bak
+*.lay
+*.csv
+*.wav
+*.txt
+*.npy
+*.npz
+*.h5
+
+# log
+*.log
+*.wandb
+*.tfevents.*
+
+# result & report
+*.jpeg
+*.png
+*.gif
+*.pdf
+*.doc
+*.docx
+*.zip
+*.tar
+*.json
+*.tex
+*.ppt
+*.pptx
+
+# ckpt
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.safetensors
