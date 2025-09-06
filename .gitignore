@@ -18,6 +18,8 @@
 *.npy
 *.npz
 *.h5
+*.ne
+*.nfg
 
 # log
 *.log
